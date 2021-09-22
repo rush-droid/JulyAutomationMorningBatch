@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Demo">
+	<test name="Test cases">
+		<packages>
+			<package name="com.sgtesting.dataproviderdemo"></package>
+		</packages>
+	</test>
+</suite>

@@ -1,0 +1,10 @@
+2021-09-17 08:57:42 INFO  Loop Output:18 - AssignmentTestng2
+2021-09-17 08:57:44 INFO  Loop Output:22 - launchBrowser() method executed
+2021-09-17 08:57:51 INFO  Loop Output:34 - navigate() method executed
+2021-09-17 08:57:55 INFO  Loop Output:48 - login() method executed
+2021-09-17 08:58:23 INFO  Loop Output:91 - createUser() method executed
+2021-09-17 08:58:38 INFO  Loop Output:115 - modifyUser() method executed
+2021-09-17 08:58:46 INFO  Loop Output:134 - deleteUser() method executed
+2021-09-17 08:58:49 INFO  Loop Output:148 - logout() method executed
+2021-09-22 09:52:04 INFO  Loop Output:18 - in launchBrowser meth
+2021-09-22 09:53:25 INFO  Loop Output:18 - in launchBrowser meth
